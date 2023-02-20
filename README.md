@@ -1,5 +1,5 @@
 # BandTube CLI
-A CLI tool that converts Bandcamp audio and image files to mp4 videos and uploads it to Youtube.
+A CLI tool that converts Bandcamp audio and image files to mp4 videos and uploads them to Youtube in one go.
 
 It uses the following packages: 
 
