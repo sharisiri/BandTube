@@ -5,9 +5,6 @@ import subprocess
 import os
 from rich.console import Console
 
-# Start the Click Prompt.
-
-# audio files to choose from
 audio_files_res = []
 
 # Iterate over audio file directory
